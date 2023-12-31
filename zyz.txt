@@ -1,9 +1,9 @@
 央视,#genre#
 
-CCTV-1,https://iptv.luas.edu.cn/liverespath/6439a34cf7b96bdfd8c4234fc91cb4912c9becd1/a9d3355361-0-0-9516fa9fec91286e254ead3ca0961a27/index.m3u8
+
 CCTV-1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1,http://116.132.87.246:8888/newlive/live/hls/2/live.m3u8
-CCTV-1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV-1,https://iptv.luas.edu.cn/liverespath/ddd8a0727fb304df5adb6926e09d6000ecd0e322/cd14b1da37-0-0-abfe7377191370b8cc3d9be787e0f64c/index.m3u8
 CCTV-1,http://60.190.51.54:9901/tsfile/live/0001_1.m3u8?url=tvzb.com
 CCTV-1,https://zb.pzhgd.com:444/live/CCTV-1.m3u8
 CCTV-1,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
@@ -2619,8 +2619,10 @@ CCTV-8K,https://iptv-pro.github.io/logo/CCTV-8K.png
 四川卫视,http://120.194.237.190:808/hls/61/index.m3u8
 四川卫视,http://106.115.24.198:9901/tsfile/live/0123_1.m3u8
 
+
 海南卫视,http://116.132.87.246:8888/newlive/live/hls/55/live.m3u8
 海南卫视,https://qist.cc/live/gzyd.php?id=hanws
+海南卫视,https://iptv.luas.edu.cn/liverespath/6439a34cf7b96bdfd8c4234fc91cb4912c9becd1/a9d3355361-0-0-9516fa9fec91286e254ead3ca0961a27/index.m3u8
 海南卫视,https://qist.cc/live/edu.php?id=hinws&u=lzjtu
 海南卫视,http://lzoq.hk3.20212021.cf/daili/?id=hainanwshd8m/8000000
 海南卫视,http://api.52tb.xyz/info?id=38&token=20230115qigeuk
